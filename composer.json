@@ -1,0 +1,25 @@
+{
+    "name": "raleerg/response-mapper",
+    "description": "Simple json response mapper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raleerg",
+            "email": "markokrg@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "psr/log": "~1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "ResponseMapper\\": "Src/",
+            "ResponseMapperTests\\": "Tests/"
+        }
+    }
+}

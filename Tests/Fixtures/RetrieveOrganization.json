@@ -1,0 +1,153 @@
+{
+   "vanityName":"linkedin",
+   "localizedName":"LinkedIn",
+   "website":{
+      "localized":{
+         "en_US":"https://lnkd.in/TWI_LI"
+      },
+      "preferredLocale":{
+         "country":"US",
+         "language":"en"
+      }
+   },
+   "foundedOn":{
+      "year":2003
+   },
+   "coverPhoto":{
+      "original":"urn:li:media:/AAEAAQAAAAAAAAwDAAAAJDkyZGUwMDU4LTBmYmEtNGU1Zi1iMThkLTllOTg0YWEyYTVlZg.jpg",
+      "cropped":"urn:li:media:/AAEAAQAAAAAAAAwDAAAAJDkyZGUwMDU4LTBmYmEtNGU1Zi1iMThkLTllOTg0YWEyYTVlZg.jpg",
+      "cropInfo":{
+         "width":1192,
+         "x":0,
+         "y":34,
+         "height":151
+      }
+   },
+   "description":{
+      "localized":{
+         "en_US":"Finding the right job begins with your connections. Get started on LinkedIn. #TheWayIn\n\nFounded in 2003, LinkedIn connects the world's professionals to make them more productive and successful. With more than 500 million members worldwide, including executives from every Fortune 500 company, LinkedIn is the world's largest professional network on the Internet. The company has a diversified business model with revenue coming from Talent Solutions, Marketing Solutions, and Premium Subscriptions products. Headquartered in Silicon Valley, LinkedIn has offices across the globe."
+      },
+      "preferredLocale":{
+         "country":"US",
+         "language":"en"
+      }
+   },
+   "organizationStatus":"OPERATING",
+   "defaultLocale":{
+      "country":"US",
+      "language":"en"
+   },
+   "organizationType":"PUBLIC_COMPANY",
+   "alternativeNames":[
+      {
+         "locale":{
+            "country":"US",
+            "language":"en"
+         },
+         "value":"リンクトイン"
+      }
+   ],
+   "specialties":[
+      {
+         "locale":{
+            "country":"US",
+            "language":"en"
+         },
+         "tags":[
+            "Online Professional Network",
+            "Jobs",
+            "People Search",
+            "Company Search",
+            "Address Book",
+            "Advertising",
+            "Professional Identity",
+            "Group Collaboration"
+         ]
+      }
+   ],
+   "parentRelationship":{
+      "parent":"urn:li:organization:1035",
+      "organizationRelationshipType":"SUBSIDIARY",
+      "relationshipStatus":"ACTIVE"
+   },
+   "staffCountRange":"SIZE_5001_TO_10000",
+   "localizedSpecialties":[
+      "Online Professional Network",
+      "Jobs",
+      "People Search",
+      "Company Search",
+      "Address Book",
+      "Advertising",
+      "Professional Identity",
+      "Group Collaboration"
+   ],
+   "industries":[
+      "urn:li:industry:6"
+   ],
+   "name":{
+      "localized":{
+         "it_IT":"LinkedIn",
+         "ru_RU":"LinkedIn",
+         "pl_PL":"LinkedIn",
+         "ro_RO":"LinkedIn",
+         "sv_SE":"LinkedIn",
+         "da_DK":"LinkedIn",
+         "tr_TR":"LinkedIn",
+         "pt_BR":"LinkedIn",
+         "th_TH":"LinkedIn",
+         "fr_FR":"LinkedIn",
+         "ja_JP":"LinkedIn",
+         "in_ID":"LinkedIn",
+         "cs_CZ":"LinkedIn",
+         "de_DE":"LinkedIn",
+         "ms_MY":"LinkedIn",
+         "zh_TW":"LinkedIn",
+         "ko_KR":"LinkedIn",
+         "en_US":"LinkedIn",
+         "es_ES":"LinkedIn",
+         "zh_CN":"LinkedIn (领英)",
+         "no_NO":"LinkedIn",
+         "nl_NL":"LinkedIn"
+      },
+      "preferredLocale":{
+         "country":"US",
+         "language":"en"
+      }
+   },
+   "logo":{
+      "original":"urn:li:media:/AAEAAQAAAAAAAAH-AAAAJDRkYjQ0MzkyLTM5MzktNDAwYS04ZTI0LTJhYzRlN2JmOThmOQ.png",
+      "cropped":"urn:li:media:/AAEAAQAAAAAAAANyAAAAJGRlZTNlZDQwLTk4YTItNDA1MS04MzBjLWJmNGQ5M2RmZGUxYw.png",
+      "cropInfo":{
+         "width":800,
+         "x":0,
+         "y":0,
+         "height":800
+      }
+   },
+   "locations":[
+      {
+         "address":{
+            "country":"US",
+            "geographicArea":"CA",
+            "city":"Sunnyvale",
+            "line1":"Sunnyvale"
+         },
+         "staffCountRange":"SIZE_1",
+         "locationType":"HEADQUARTERS"
+      }
+   ],
+   "id":1337,
+   "localizedDescription":"Finding the right job begins with your connections. Get started on LinkedIn. #TheWayIn\n\nFounded in 2003, LinkedIn connects the world's professionals to make them more productive and successful. With more than 500 million members worldwide, including executives from every Fortune 500 company, LinkedIn is the world's largest professional network on the Internet. The company has a diversified business model with revenue coming from Talent Solutions, Marketing Solutions, and Premium Subscriptions products. Headquartered in Silicon Valley, LinkedIn has offices across the globe.",
+   "overviewPhoto":{
+      "original":"urn:li:media:/AAEAAQAAAAAAAAikAAAAJDE5MmZlMTc3LWE5ZjEtNDFiOC1iODk1LTc2NWQ4Y2M3NDFlOQ.jpg",
+      "cropped":"urn:li:media:/AAEAAQAAAAAAAAikAAAAJDE5MmZlMTc3LWE5ZjEtNDFiOC1iODk1LTc2NWQ4Y2M3NDFlOQ.jpg",
+      "cropInfo":{
+         "width":0,
+         "x":0,
+         "y":0,
+         "height":0
+      }
+   },
+   "$URN":"urn:li:organization:1337",
+   "localizedWebsite":"https://lnkd.in/TWI_LI"
+}
